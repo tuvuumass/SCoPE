@@ -2,7 +2,7 @@
 
 **SCoPE**: **S**entence **Co**ntent **P**aragraph **E**mbeddings
 
-Code and data for our paper "[_Encouraging Paragraph Embeddings to Remember Sentence Identity Improves Classification_](https://arxiv.org/abs/1906.03656)", to appear at ACL 2019.
+Code and data for our ACL 2019 paper "[_Encouraging Paragraph Embeddings to Remember Sentence Identity Improves Classification_](https://www.aclweb.org/anthology/papers/P/P19/P19-1638/)".
 
 
 ## Installation prerequisites
@@ -164,11 +164,14 @@ If you use this code for your work, please cite us:
 ```
 @inproceedings{vu-iyyer-2019-encouraging,
     title = "Encouraging Paragraph Embeddings to Remember Sentence Identity Improves Classification",
-    author = "Vu, Tu  and  Iyyer, Mohit",
-    booktitle = "Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics",
+    author = "Vu, Tu  and
+      Iyyer, Mohit",
+    booktitle = "Proceedings of the 57th Conference of the Association for Computational Linguistics (ACL)",
     month = jul,
     year = "2019",
     address = "Florence, Italy",
     publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/P19-1638",
+    pages = "6331--6338"
 }
 ```
