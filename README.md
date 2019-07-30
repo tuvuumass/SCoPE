@@ -108,7 +108,7 @@ python generate_sentence_content_data.py \
 A visualization of our semi-supervised approach can be seen in the figure below. We first pretrain the CNN encoder (shown as two copies with shared parameters) on unlabeled data using our sentence content objective. The encoder is then used for downstream classification tasks.
 
 <p align="center">
-  <img src="https://github.com/tuvuumass/SCoPE-test/blob/master/figs/fig1.png" width="70%" alt="A visualization of our semi-supervised approach">
+  <img src="https://github.com/tuvuumass/SCoPE/blob/master/figs/fig1.png" width="70%" alt="A visualization of our semi-supervised approach">
 </p>
 
 First, run `pretrain_CNN-SC.py` to pretrain the CNN encoder with our sentence content objective on the unlabeled data of the downstream classification task. 
